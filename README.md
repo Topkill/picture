@@ -1,2 +1,2 @@
 # picture
-imgs of my note
+imgs of my notes
